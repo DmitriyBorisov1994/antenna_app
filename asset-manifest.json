@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/antenna_app/static/css/main.4b134efb.css",
+    "main.js": "/antenna_app/static/js/main.6ab5b837.js",
+    "static/js/787.2ab7e7aa.chunk.js": "/antenna_app/static/js/787.2ab7e7aa.chunk.js",
+    "index.html": "/antenna_app/index.html",
+    "main.4b134efb.css.map": "/antenna_app/static/css/main.4b134efb.css.map",
+    "main.6ab5b837.js.map": "/antenna_app/static/js/main.6ab5b837.js.map",
+    "787.2ab7e7aa.chunk.js.map": "/antenna_app/static/js/787.2ab7e7aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b134efb.css",
+    "static/js/main.6ab5b837.js"
+  ]
+}
